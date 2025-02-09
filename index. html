@@ -1,0 +1,23 @@
+<html>
+    <body>
+        <header>
+            <link rel="stylesheet" href="style.css">
+            <img src="https://png.pngtree.com/png-vector/20221212/ourmid/pngtree-military-knives-png-image_6520483.png">
+        </header>
+        <main>
+        <h1>knife shop</h1>
+         <h2> У нас вы найдёте </h2>
+         <ul>
+            <li>ножи для охоты </li>
+            <li>ножи для кухни</li>
+            <li>ножи из игр</li>
+            <li>многое другое</li>
+         </ul> 
+         <img src="https://cdn-icons-png.freepik.com/512/12271/12271895.png">  
+          </main>
+          <footer>
+            <p>связатся снами можно через: </p>
+            <p>номер телефона: 042 052 </p>
+          </footer>
+    </body>
+</html>
